@@ -55,25 +55,9 @@
 
 ---
 
-## 🌌 Most Used Languages
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhanagarg85-hue&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=suhanagarg85-hue&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
