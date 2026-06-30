@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Curious+Mind+%F0%9F%92%9C;CSE+Student;Exploring+AI+%26+Machine+Learning;Learning+DSA+One+Problem+at+a+Time;Future+Game+Developer%3F+Let's+See..." />
 
-*"Still exploring. Always learning. Building one project at a time."*
+
 
 </div>
 
