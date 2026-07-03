@@ -65,6 +65,13 @@
 
 ---
 
+## 💻 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Suhana_Garg?theme=dark&font=Poppins&ext=contest" />
+</p>
+
+
 ## 🌐 Connect with Me
 
 <p align="center">
