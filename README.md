@@ -17,7 +17,6 @@
 🌱 Curious about AI/ML, Game Development & Open Source
 💻 Currently learning DSA and strengthening my fundamentals
 ⚡ Comfortable with C, Python, C++, and HTML
-🎮 Gamer who enjoys solving problems as much as playing them
 🚀 Goal: Keep exploring until I find what truly excites me.
 ```
 
@@ -29,7 +28,7 @@
 - 📚 Data Structures & Algorithms
 - 🎮 Game Development
 - 🌍 Open Source Contributions
-- 🧠 Building consistency over perfection
+- 🧠 Building consistency 
 
 ---
 
